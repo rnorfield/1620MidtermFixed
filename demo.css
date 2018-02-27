@@ -1,0 +1,31 @@
+#demo {
+	width: 70vw;
+	height: 70vh;
+	position: absolute;
+	margin: auto;
+	display: block;
+	left: 0px;
+	right: 0px;
+}
+.radioimg {
+
+	margin: auto;
+	position: relative;
+	bottom: 0px;
+	display: block;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+}
+
+#butts {
+	width: 100%;
+	left: 38%;
+	position: absolute;
+}
+
+#radio {
+	width: 100px;
+	left: 45%;
+	position: relative;
+}

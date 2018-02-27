@@ -1,0 +1,16 @@
+#menu {
+	left: 0px;
+	top: -70px;
+	width: auto;
+	padding: 5px;
+	position: fixed;
+	transition: top 0.5s;
+	text-align: center;
+}
+
+#downimg {
+	position: absolute;
+	height: 25px;
+	width: auto;
+	bottom: -25px;
+}
